@@ -1,5 +1,5 @@
 import React from 'react';
-import {home} from '../api';
+import {coin} from '../api';
 import PricesPresenter from './PricesPresenter';
 
 class PricesContainer extends React.Component {
@@ -11,7 +11,7 @@ class PricesContainer extends React.Component {
 
   async componentDidMount() {
     try {
-      const data = await home.prices();
+      const data = await coin.home();
       console.log(data, 'data');
     } catch (error) {
       this.setState({error: "can't find anything"});
