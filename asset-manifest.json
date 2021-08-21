@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/coin-react-challenge/static/js/main.c3acf90c.chunk.js",
+    "main.js.map": "/coin-react-challenge/static/js/main.c3acf90c.chunk.js.map",
+    "runtime-main.js": "/coin-react-challenge/static/js/runtime-main.3e473c10.js",
+    "runtime-main.js.map": "/coin-react-challenge/static/js/runtime-main.3e473c10.js.map",
+    "static/js/2.6e62ce39.chunk.js": "/coin-react-challenge/static/js/2.6e62ce39.chunk.js",
+    "static/js/2.6e62ce39.chunk.js.map": "/coin-react-challenge/static/js/2.6e62ce39.chunk.js.map",
+    "index.html": "/coin-react-challenge/index.html",
+    "static/js/2.6e62ce39.chunk.js.LICENSE.txt": "/coin-react-challenge/static/js/2.6e62ce39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e473c10.js",
+    "static/js/2.6e62ce39.chunk.js",
+    "static/js/main.c3acf90c.chunk.js"
+  ]
+}
